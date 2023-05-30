@@ -23,7 +23,7 @@ body {
 
 }
 
-a{
+.list{
     text-decoration: none;
 }
 
@@ -143,9 +143,14 @@ ul{
 }
 
 .main-portfolio-but {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
         font-size: 16px;
         letter-spacing: 0.04em;
+        line-height: 1.5;
+        color: #4d5ae5;
+        background-color: #F4F4FD;
+        
 }
 
 .main-portfolio-but-white {
