@@ -92,13 +92,15 @@ ul{
 }
 
 .hero-buton{
+    font-family: "Roboto", sans-serif;
     background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
     letter-spacing: 0.04em;
     color: #FFFFFF;
     font-family: "roboto", sans-serif;
-    cursor: pointer
+    cursor: pointer;
+    line-height: 1.5;
 }
 
 .hero-buton:hover, .hero-buton:focus {
@@ -114,12 +116,14 @@ ul{
     font-size: 20px;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    line-height: 1.2;
 }
 .main-second-content {
     font-weight: 400;
     font-size: 16px;
     letter-spacing: 0.02em;
     color:#434455;
+    line-height: 1.5;
  }
 .section3-title{
     font-weight: 700;
@@ -128,6 +132,7 @@ ul{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
+    line-height: 1.11;
 
 }
  
