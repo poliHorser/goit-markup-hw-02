@@ -8,6 +8,10 @@ head{
 body {
     font-family: "Roboto", sans-serif;
 }
+
+.link {
+    text-decoration: none;
+}
 .header-logo {
     font-family: "Ralewey", sans-serif;
     text-transform: uppercase;
@@ -15,7 +19,6 @@ body {
     font-size: 18px;
     line-height: 1.17;
     color: #4d5ae5;
-    text-decoration: none;
     
     letter-spacing: 0.03em;
 
@@ -47,11 +50,22 @@ ul{
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #2E2F42;
-}
-.header-contact-link:hover, .header-contact-link:focus {
-    color: #4D5AE5;
 
 }
+
+.header-menu-link:hover, .header-menu-link:focus {
+    color: #404bbf;
+}
+.header-contact-link:hover, .header-contact-link:focus {
+    color: #404bbf;
+
+}
+
+.header-adddres {
+    font-style: normal
+}
+
+
 
 
 .header-contact-link{
