@@ -13,7 +13,7 @@ body {
     text-decoration: none;
 }
 .header-logo {
-    font-family: "Ralewey", sans-serif;
+    font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     font-weight: 800;
     font-size: 18px;
@@ -144,7 +144,16 @@ ul{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
+    line-height: 1.11;
 }
+
+
+.section4 {
+    background-color: #F4F4FD;
+
+}
+
+
 
 .section4-secondtitle{
     font-weight: 500;
@@ -167,6 +176,7 @@ ul{
         font-size: 16px;
         letter-spacing: 0.02em;
      color: #F4F4FD;
+     line-height: 1.5;
 }
 
 .perfomer-title{
@@ -201,4 +211,8 @@ ul{
 .main-portfolio-but-blue {
 
     color: #4D5AE5;
+}
+
+.footer {
+    background-color: #2e2f42;
 }
