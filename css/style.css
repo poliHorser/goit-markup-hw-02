@@ -203,16 +203,14 @@ ul{
         line-height: 1.5;
         color: #4d5ae5;
         background-color: #F4F4FD;
-        
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
 }
 
-.main-portfolio-but-white {
-    color: #FFFFFF;
 
-}
-.main-portfolio-but-blue {
+.main-portfolio-but:hover, .main-portfolio-but:focus {
+    background-color: #404BBF;
 
-    color: #4D5AE5;
 }
 
 .footer {
