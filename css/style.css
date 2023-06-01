@@ -191,6 +191,10 @@ ul{
         color: #2E2F42;
 }
 
+.li-section {
+    background-color: #FFFFFF
+}
+
 .portfolio-text{
     font-size: 16px;
     letter-spacing: 0.02em;
