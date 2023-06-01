@@ -155,17 +155,13 @@ ul{
 
 }
 
-.section-ul{
-    background-color: #FFFFFF;
-}
-
-
 .section-four-secondtitle{
     font-weight: 500;
         font-size: 20px;
         letter-spacing: 0.02em;
         color: #2E2F42;
     line-height: 1.2;
+    background-color: #FFFFFF;
 }
 
 .section-four-text {
