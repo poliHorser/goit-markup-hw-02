@@ -138,7 +138,7 @@ ul{
 
 }
  
-.section4-title{
+.section-four-title{
 
     font-weight: 700;
     font-size: 36px;
@@ -150,26 +150,29 @@ ul{
 }
 
 
-.section4 {
+.section-four {
     background-color: #F4F4FD;
 
 }
 
+.section-ul{
+    background-color: #FFFFFF;
+}
 
 
-.section4-secondtitle{
+.section-four-secondtitle{
     font-weight: 500;
         font-size: 20px;
         letter-spacing: 0.02em;
         color: #2E2F42;
-
+    line-height: 1.2;
 }
 
-.section4-text {
+.section-four-text {
          font-size: 16px;
         letter-spacing: 0.02em;
     color: #434455;
-
+    line-height: 1.5
 
 }
 
