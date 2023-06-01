@@ -100,7 +100,7 @@ ul{
     font-size: 16px;
     letter-spacing: 0.04em;
     color: #FFFFFF;
-    font-family: "roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     cursor: pointer;
     line-height: 1.5;
 }
@@ -127,7 +127,7 @@ ul{
     color:#434455;
     line-height: 1.5;
  }
-.section3-title{
+.section-title{
     font-weight: 700;
     font-size: 36px;
     text-align: center;
